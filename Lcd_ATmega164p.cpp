@@ -1,6 +1,7 @@
 /*
 LA LIBRERÍA lcd.h NO es mia
 no recuerdo de donde la descargue, pero funciona
+
 */
 #include <avr/io.h>
 #include <stdio.h>   // para sprintf
